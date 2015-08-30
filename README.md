@@ -1,4 +1,4 @@
-# A modified version of an address book application using ORMLite andropenguin/AddressBookORMlite7
+# A modified version of an address book application andropenguin/AddressBookORMlite7, using Google Dagger 2 and Espresso for testing
 
 # What is this?
 
