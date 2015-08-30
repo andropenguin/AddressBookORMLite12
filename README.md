@@ -5,7 +5,7 @@
 This is a modified version of andropenguin/AddressBookORMlite7 
 ( https://github.com/andropenguin/AddressBookORMlite7 ). 
 It uses Google Dagger 2 and Espresso for testing of Adapter, Database, AsyncTaskLoader, and UI.
-To test them, the dependency injection of database file name is done, tests uses other database file
+To test them, the dependency injection of database file name is done. Tests uses other database file
  than the one of production environment.
 
 # License
